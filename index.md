@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Portfolio and devlog
 ---
 Hi, I'm Adam (aka @torontocaper).
 
