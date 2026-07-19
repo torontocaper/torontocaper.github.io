@@ -1,14 +1,12 @@
 ---
-title: Home
-description: Portfolio and devlog
+title: torontocaper
+description: writer, editor, developing game developer
 ---
-Hi, I'm Adam (aka @torontocaper).
+Hi, I'm Adam (aka @torontocaper). 
 
-I'm a writer, editor and professional communicator with a passion for game design and development. 
+Thank you for visiting my website!
 
-Thank you for visiting my website! I'm hoping to use it as a 'devlog' and a showcase for my gamedev work. 
-
-If you want to know more about me or my work, please get in touch! You can reach me at torontocaper at gmail dot com. 
+Learn more about me [here](/about).
 
 # Active Projects
 
